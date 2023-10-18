@@ -1,7 +1,7 @@
 
 from idxImporter import interpretIDX
 from kNN import kNN
-from aNN import backPropNN
+from aaNN import backPropNN
 import os
 import numpy as np
 
